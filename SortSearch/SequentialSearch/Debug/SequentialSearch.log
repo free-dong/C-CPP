@@ -1,0 +1,3 @@
+﻿  SequentialSearch.cpp
+E:\codes\CPP\SortSearch\SequentialSearch\SequentialSearch.cpp(45): warning C4715:  “SequentailSearch”: 不是所有的控件路径都返回值
+  SequentialSearch.vcxproj -> E:\codes\CPP\SortSearch\SequentialSearch\Debug\SequentialSearch.exe
